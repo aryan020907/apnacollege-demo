@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repository.
 <br>
-Author-Aryan Malhotra
+Author-Aryan Malhotra [NSUT]
